@@ -1,0 +1,6 @@
+{
+  "name": "Online Complaint Registration and Management System",
+  "description": "A secure, user-friendly portal for registering, tracking, managing, and resolving online complaints with user and admin dashboards, tracking timelines, and report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
